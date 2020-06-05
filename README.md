@@ -5,9 +5,6 @@ Due to build reasons, I use for that a different repository, which leads to a di
 
 ## Visiting the site
 
-After deployment, the site should be visible under [https://mliebelt.github.io/mliebelts-blog/](https://mliebelt.github.io/mliebelts-blog/).
+After deployment, the site should be visible under [https://mliebelts-blog.netlify.app/](https://mliebelts-blog.netlify.app/).
 
-## Further steps
-
-* Add from here to there additional content.
-* Find ways to mix different things here (like blog articles made in pure HTML, mix of HAML, SASS, ...)
+If you want to see something different from me, go to https://mliebelt.github.io/PgnViewerJS/, my documentation to the PGN chess viewer.
